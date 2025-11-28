@@ -8,7 +8,7 @@ import {Listado} from "./componets/listado.jsx";
 const router = createBrowserRouter([
     {
         path: "/",
-        Component: Lislstado,
+        Component: Listado,
     },
 ]);
 
